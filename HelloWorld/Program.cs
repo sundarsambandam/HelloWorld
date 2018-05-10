@@ -21,5 +21,6 @@ namespace HelloWorld
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+        // dummy commit
     }
 }
